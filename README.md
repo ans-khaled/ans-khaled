@@ -35,7 +35,7 @@ Focused on building **clean, scalable, and high-performance web apps**.
 
 ## 🎓 Education
 
-**BSc Computer Science** – Thebes Academy  
+**Computer Science** – Thebes Academy  
 _Expected Graduation: 2026 | Grade: B+_
 
 ---
