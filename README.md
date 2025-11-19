@@ -1,16 +1,50 @@
-## Hi there 👋
+# Anas Khaled Ahmed Mahmoud
 
-<!--
-**ans-khaled/ans-khaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final-Year Computer Science Student | Front-End Developer**  
+📍 Cairo, Egypt | 📧 [Email] | [LinkedIn](https://www.linkedin.com/in/anas-khaled-263b022ab) | [GitHub](https://github.com/ans-khaled)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Profile
+
+Passionate Front-End Developer with strong foundations in **C++, OOP, and Data Structures & Algorithms**.  
+Skilled in **React, Angular, HTML, CSS, JavaScript**, with backend experience in **Node.js & Express**.  
+Focused on building **clean, scalable, and high-performance web apps**.
+
+---
+
+## 💻 Skills
+
+**Frontend:** React, Angular, JavaScript, TypeScript, HTML, CSS, Bootstrap  
+**Backend:** Node.js, Express.js, MongoDB, RESTful APIs  
+**Tools:** Git, GitHub, Figma, Postman
+
+---
+
+## 📂 Projects
+
+**Egypt Day Tours** – Front-End Developer
+
+- Built a responsive travel platform using **Angular, TypeScript, Bootstrap**.
+
+**React Quiz App** – Front-End Developer
+
+- Developed a dynamic quiz app using **React, useReducer, useEffect**, and reusable components.
+
+**Clothes E-commerce** – Back-End Developer
+
+- Created **Node.js/Express backend** with JWT authentication and MongoDB.
+
+---
+
+## 🎓 Education
+
+**BSc Computer Science** – Thebes Academy  
+_Expected Graduation: 2026 | Grade: B+_
+
+---
+
+## 🔗 Links
+
+- GitHub: [ans-khaled](https://github.com/ans-khaled)
+- LinkedIn: [anas-khaled](https://www.linkedin.com/in/anas-khaled-263b022ab)
