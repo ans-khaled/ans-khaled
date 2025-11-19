@@ -1,7 +1,7 @@
 # Anas Khaled Ahmed Mahmoud
 
 **Final-Year Computer Science Student | Front-End Developer**  
-📍 Cairo, Egypt | 📧 [Email] | [LinkedIn](https://www.linkedin.com/in/anas-khaled-263b022ab) | [GitHub](https://github.com/ans-khaled)
+📍 Cairo, Egypt | 📧 [Email](anskhaled04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anas-khaled-263b022ab)
 
 ---
 
@@ -22,17 +22,13 @@ Focused on building **clean, scalable, and high-performance web apps**.
 ---
 
 ## 📂 Projects
+**[Egypt Day Tours](https://github.com/ans-khaled/egypt-day-tours)** – Front-End Developer  
+- Built a responsive travel platform using **Angular, TypeScript, Bootstrap**.  
 
-**Egypt Day Tours** – Front-End Developer
+**[React Quiz App](https://github.com/ans-khaled/react-quiz-app)** – Front-End Developer  
+- Developed a dynamic quiz app using **React, useReducer, useEffect**, and reusable components.  
 
-- Built a responsive travel platform using **Angular, TypeScript, Bootstrap**.
-
-**React Quiz App** – Front-End Developer
-
-- Developed a dynamic quiz app using **React, useReducer, useEffect**, and reusable components.
-
-**Clothes E-commerce** – Back-End Developer
-
+**[Clothes E-commerce](#)** – Back-End Developer  
 - Created **Node.js/Express backend** with JWT authentication and MongoDB.
 
 ---
