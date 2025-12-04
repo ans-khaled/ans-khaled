@@ -1,6 +1,6 @@
 # Anas Khaled Ahmed Mahmoud
 
-**Final-Year Computer Science Student | Front-End Developer**  
+**Final-Year Computer Science Student | Front-End Engineer**  
 📍 Cairo, Egypt | 📧 [Email](mailto:anskhaled04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anas-khaled-263b022ab)
 
 ---
