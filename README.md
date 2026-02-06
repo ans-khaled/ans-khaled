@@ -15,9 +15,9 @@ Focused on building **clean, scalable, and high-performance web apps**.
 
 ## 💻 Skills
 
-**Frontend:** React, Angular, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind
-**Backend:** Node.js, Express.js, MongoDB, RESTful APIs  
-**Tools:** Git, GitHub, Figma, Postman
+**Frontend:** React, Angular, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind.
+**Backend:** Node.js, Express.js, MongoDB, RESTful APIs.
+**Tools:** Git, GitHub, Figma, Postman.
 
 ---
 
